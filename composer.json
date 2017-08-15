@@ -20,6 +20,10 @@
         },
         {
             "name": "Erik Tilt"
+        },
+        {
+            "name": "Lubos Beran",
+            "homepage": "https://www.factcool.com"
         }
     ],
     "require": {
